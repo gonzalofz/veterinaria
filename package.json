@@ -1,0 +1,14 @@
+{
+  "name": "veterinary",
+  "version": "1.0.0",
+  "description": "this project is for api veterinary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Fuente (el sutro)",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
